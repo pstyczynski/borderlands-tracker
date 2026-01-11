@@ -1,7 +1,7 @@
 {
     "name": "Borderlands Farm Tracker",
     "short_name": "Farm Tracker",
-    "start_url": "borderlands-tracker/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#212529",
     "theme_color": "#212529",
